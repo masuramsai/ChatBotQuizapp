@@ -1,0 +1,86 @@
+{
+  "1": {
+    "question": "What is the status of Canada?",
+    "options": [
+      "Republic",
+      "Dominion",
+      "Kingdom",
+      "Commonwealth"
+    ],
+    "answer": "B"
+  },
+  "2": {
+    "question": "Who is the patron saint of Canada?",
+    "options": [
+      "St. David St.",
+      "Andrew St.",
+      "George St.",
+      "Jean de Brebeuf"
+    ],
+    "answer": "A"
+  },
+  "3": {
+    "question": "Which is the capital of Canada?",
+    "options": ["Ottawa", "Monteal", "Halifax", "Toronto"],
+    "answer": "A"
+  },
+  "4": {
+    "question": "Which are the official languages of Canada?",
+    "options": [
+      "English and Spanish",
+      "Spanish and French",
+      "French and Russian",
+      "English and French"
+    ],
+    "answer": "D"
+  },
+  "5": {
+    "question": "What is in the centre of Canada’s flag?",
+    "options": ["Two swords", "Sun", "Cross", "Maple Leaf"],
+    "answer": "C"
+  },
+  "6": {
+    "question": "Which of the following is not a province of Canada?",
+    "options": ["Alberta", "British Columbia", "Rhode Island", "Quebec"],
+    "answer": "C"
+  },
+  "7": {
+    "question": "Which province of Canada has predominantly French population?",
+    "options": [
+      "Nova Scotia",
+      "British Columbia",
+      "Yukon",
+      "Quebec"
+    ],
+    "answer": "D"
+  },
+  "8": {
+    "question": "Which is the national animal of Canada?",
+    "options": [
+      "Elephant",
+      "Beaver",
+      "Lion",
+      "Tiger"
+    ],
+    "answer": "B"
+  },
+  "9": {
+    "question": "Which is the longest river in Canada?",
+    "options": [
+      "St. Lawrence", 
+      "MacKenzie", 
+      "Nelson", 
+      "Fraser"],
+    "answer": "B"
+  },
+  "10": {
+    "question": "When did Montreal host Olympics?",
+    "options": [
+      "1964",
+      "1976'",
+      "1980",
+      "1984"
+    ],
+    "answer": "B"
+  }
+}
